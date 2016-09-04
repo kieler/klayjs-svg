@@ -1,0 +1,17 @@
+{
+  "name": "klayjs-svg",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ulf Rueegg",
+    "email": "uru@informatik.uni-kiel.de"
+  },
+  "description": "",
+  "main": "klayjs-svg.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": { },
+  "devDependencies": { },
+  "license": "MIT"
+}
