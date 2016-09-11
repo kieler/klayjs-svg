@@ -74,3 +74,14 @@ results in a corresponding svg element
 ```
 <rect id="node1" class="myClass otherClass node" x="0" y="0" width="0" height="0" style="fill: #ddd;" data-foo="bar" rx="5" />
 ```
+
+
+Example
+=== 
+Using the [CLI]((https://github.com/OpenKieler/klayjs-svg-cli)) 
+and `examples/simple.json`:
+```
+klayjs-svg -acp < simple.json > simple.svg
+```
+
+![Simple SVG](https://cdn.rawgit.com/OpenKieler/klayjs-svg/master/examples/simple.svg)
