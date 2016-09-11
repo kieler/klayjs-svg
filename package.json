@@ -5,13 +5,14 @@
     "name": "Ulf Rueegg",
     "email": "uru@informatik.uni-kiel.de"
   },
-  "description": "",
+  "description": "Simple SVG renderer for klayjs",
   "main": "klayjs-svg.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/OpenKieler/klayjs-svg"
   },
   "dependencies": { },
   "devDependencies": { },
+  "engines": { "node": ">=6.5.0" },
   "license": "MIT"
 }
